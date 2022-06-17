@@ -1,0 +1,149 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-10-03-ver1.23\k65-mod\k65-mod.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|k65-mod.c|analog_filter.c|ioctl.c|dac.c|env_proc.c|switch_filter.c|clamp.c|TimeDelay.c|scale.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-10-03-ver1.23\k65-mod\analog_filter.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|k65-mod.c|analog_filter.c|ioctl.c|dac.c|env_proc.c|switch_filter.c|clamp.c|TimeDelay.c|scale.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-10-03-ver1.23\k65-mod\ioctl.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|k65-mod.c|analog_filter.c|ioctl.c|dac.c|env_proc.c|switch_filter.c|clamp.c|TimeDelay.c|scale.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-10-03-ver1.23\k65-mod\dac.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|k65-mod.c|analog_filter.c|ioctl.c|dac.c|env_proc.c|switch_filter.c|clamp.c|TimeDelay.c|scale.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-10-03-ver1.23\k65-mod\env_proc.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|k65-mod.c|analog_filter.c|ioctl.c|dac.c|env_proc.c|switch_filter.c|clamp.c|TimeDelay.c|scale.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-10-03-ver1.23\k65-mod\switch_filter.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|k65-mod.c|analog_filter.c|ioctl.c|dac.c|env_proc.c|switch_filter.c|clamp.c|TimeDelay.c|scale.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-10-03-ver1.23\k65-mod\clamp.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|k65-mod.c|analog_filter.c|ioctl.c|dac.c|env_proc.c|switch_filter.c|clamp.c|TimeDelay.c|scale.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-10-03-ver1.23\k65-mod\TimeDelay.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|k65-mod.c|analog_filter.c|ioctl.c|dac.c|env_proc.c|switch_filter.c|clamp.c|TimeDelay.c|scale.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-10-03-ver1.23\k65-mod\scale.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|k65-mod.c|analog_filter.c|ioctl.c|dac.c|env_proc.c|switch_filter.c|clamp.c|TimeDelay.c|scale.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-10-03-ver1.23\k65-mod\k65-mod.elf
+Folder=Output
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|k65-mod.c|analog_filter.c|ioctl.c|dac.c|env_proc.c|switch_filter.c|clamp.c|TimeDelay.c|scale.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Map="$(BINDIR_)$(TARGETBASE).map" -s -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -O2
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-10-03-ver1.23\k65-mod\k65-mod.hex
+Folder=Output
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|k65-mod.c|analog_filter.c|ioctl.c|dac.c|env_proc.c|switch_filter.c|clamp.c|TimeDelay.c|scale.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Map="$(BINDIR_)$(TARGETBASE).map" -s -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -O2
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{430F471F-7ECB-4852-A80D-DEF9A5C8E751}=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+tool_loc{C68E5105-1196-4333-A0BF-3DC57271E614}=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-ld.exe

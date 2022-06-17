@@ -1,0 +1,110 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-07-02-ver1.22\bootloader-phenol\main.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|.;C:\microchip_solutions_v2013-02-15\Microchip\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|TimeDelay.c|usb_ctrl.c|usb_descriptors.c|C:\microchip_solutions_v2013-02-15\Microchip\USB\usb_device.c|midi.c||<obj>||<lib>||<lkr>|linkerscript-bl.ld||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-07-02-ver1.22\bootloader-phenol\TimeDelay.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|.;C:\microchip_solutions_v2013-02-15\Microchip\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|TimeDelay.c|usb_ctrl.c|usb_descriptors.c|C:\microchip_solutions_v2013-02-15\Microchip\USB\usb_device.c|midi.c||<obj>||<lib>||<lkr>|linkerscript-bl.ld||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-07-02-ver1.22\bootloader-phenol\usb_ctrl.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|.;C:\microchip_solutions_v2013-02-15\Microchip\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|TimeDelay.c|usb_ctrl.c|usb_descriptors.c|C:\microchip_solutions_v2013-02-15\Microchip\USB\usb_device.c|midi.c||<obj>||<lib>||<lkr>|linkerscript-bl.ld||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-07-02-ver1.22\bootloader-phenol\usb_descriptors.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|.;C:\microchip_solutions_v2013-02-15\Microchip\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|TimeDelay.c|usb_ctrl.c|usb_descriptors.c|C:\microchip_solutions_v2013-02-15\Microchip\USB\usb_device.c|midi.c||<obj>||<lib>||<lkr>|linkerscript-bl.ld||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-07-02-ver1.22\bootloader-phenol\usb_device.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|.;C:\microchip_solutions_v2013-02-15\Microchip\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|TimeDelay.c|usb_ctrl.c|usb_descriptors.c|C:\microchip_solutions_v2013-02-15\Microchip\USB\usb_device.c|midi.c||<obj>||<lib>||<lkr>|linkerscript-bl.ld||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-07-02-ver1.22\bootloader-phenol\midi.o
+Folder=Intermediary
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|.;C:\microchip_solutions_v2013-02-15\Microchip\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|TimeDelay.c|usb_ctrl.c|usb_descriptors.c|C:\microchip_solutions_v2013-02-15\Microchip\USB\usb_device.c|midi.c||<obj>||<lib>||<lkr>|linkerscript-bl.ld||
+SuiteArgsString=
+ToolArgsString=-Wall -O2
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-07-02-ver1.22\bootloader-phenol\phenol_bootloader.elf
+Folder=Output
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|.;C:\microchip_solutions_v2013-02-15\Microchip\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|TimeDelay.c|usb_ctrl.c|usb_descriptors.c|C:\microchip_solutions_v2013-02-15\Microchip\USB\usb_device.c|midi.c||<obj>||<lib>||<lkr>|linkerscript-bl.ld||
+SuiteArgsString=
+ToolArgsString=-Map="$(BINDIR_)$(TARGETBASE).map" -s -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -O2
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=P:\projects\_kilpatrick_audio\K65-phenol\code\2015-07-02-ver1.22\bootloader-phenol\phenol_bootloader.hex
+Folder=Output
+DeviceName=PIC32MX250F128D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|.;C:\microchip_solutions_v2013-02-15\Microchip\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|TimeDelay.c|usb_ctrl.c|usb_descriptors.c|C:\microchip_solutions_v2013-02-15\Microchip\USB\usb_device.c|midi.c||<obj>||<lib>||<lkr>|linkerscript-bl.ld||
+SuiteArgsString=
+ToolArgsString=-Map="$(BINDIR_)$(TARGETBASE).map" -s -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -O2
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{430F471F-7ECB-4852-A80D-DEF9A5C8E751}=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+tool_loc{C68E5105-1196-4333-A0BF-3DC57271E614}=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-ld.exe
