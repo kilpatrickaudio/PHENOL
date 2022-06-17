@@ -4,7 +4,7 @@ This is the firmware from the PHENOL Patchable Analog Synthesizer by Kilpatrick 
 
 This code is released into the public domain with the following limitations:
 
-    If you use this code for your own projects you must not use the same name or hardware design style as PHENOL. Feel free to adapt or learn from this code but clones of the original product are not permitted.
+* If you use this code for your own projects you must not use the same name or hardware design style as PHENOL. Feel free to adapt or learn from this code but clones of the original product are not permitted.
 
-    This code comes with no warranty.
+* This code comes with no warranty.
 
